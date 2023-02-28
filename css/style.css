@@ -1,0 +1,45 @@
+@import url("reset.css");
+
+html,
+body {
+	font-size: 1em;
+	background-color: #0b1d26;
+	color: #fff;
+	font-family: "PT Sans";
+}
+
+.wrapper {
+	min-height: 100%;
+}
+.parallax {
+}
+.parallax__body {
+}
+.parallax__container {
+}
+._container {
+}
+.parallax__label {
+}
+.parallax__title {
+}
+.parallax__images {
+}
+.images-parallax {
+}
+.images-parallax__item {
+}
+.images-parallax__clouds {
+}
+.images-parallax__mountains {
+}
+.images-parallax__human {
+}
+.content {
+}
+.content__container {
+}
+.content__title {
+}
+.content__text {
+}
